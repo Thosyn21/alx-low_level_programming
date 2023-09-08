@@ -16,7 +16,6 @@ int main(void)
 	for (afabets = 'z'; afabets >= 'a'; afabets--)
 	{
 		putchar(afabets);
-		putchar('\n');
 	}
 
 	return (0);
