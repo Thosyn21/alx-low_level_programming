@@ -14,8 +14,10 @@ int main(void)
 	char afabets;
 
 	for (afabets = 'z'; afabets >= 'a'; afabets--)
+	{
 		putchar(afabets);
 		putchar('\n');
+	}
 
 	return (0);
 }
