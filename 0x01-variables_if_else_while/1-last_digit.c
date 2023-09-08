@@ -4,8 +4,9 @@
 
 /**
  * main - The last Digit
+ * Description - Last digits greater or equals to
  *
- * Return : Always successful(0);
+ * Return : Always successful(0)
  */
 int main(void)
 {
