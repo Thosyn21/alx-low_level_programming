@@ -3,17 +3,18 @@
 #include <time.h>
 
 /**
- * main - Entry point
+ * main - Task 7
+ * Description - lower case in reverse
  *
- * Return: Always 0 (Success)
+ * Return: 0;
  */
 
 int main(void)
 {
-	char low;
+	char afabets;
 
-	for (low = 'z'; low >= 'a'; low--)
-		putchar(low);
+	for (afabets = 'z'; afabets >= 'a'; afabets--)
+		putchar(afabets);
 		putchar('\n');
 
 	return (0);
