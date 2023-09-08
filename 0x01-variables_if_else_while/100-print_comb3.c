@@ -4,7 +4,7 @@
  * main - Task 10
  * Description - Different combination of two codes
  *
- * Result: 0;
+ * Return: 0;
  */
 int main(void)
 {
