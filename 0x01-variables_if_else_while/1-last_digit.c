@@ -5,7 +5,7 @@
 /**
  * main - The last Digit
  *
- * Return : Always (0);
+ * Return : Always successful(0);
  */
 int main(void)
 {
