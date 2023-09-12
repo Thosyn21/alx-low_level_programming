@@ -1,6 +1,7 @@
 #include "main.h"
 
-/** print_times_table - Task 12
+/**
+ * print_times_table - Task 12
  * @n: An integer value
  * Description - prints time table starting with 0
  * Return: 0
@@ -34,7 +35,7 @@ void putformat(int n)
 		_putchar(' ');
 		_putchar(' ');
 		_putchar(' ');
-		_putchar(n = '0');
+		_putchar(n + '0');
 	}
 	else if (n > 9 && n <= 99)
 	{
