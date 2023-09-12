@@ -5,7 +5,7 @@
  * print_to_98 - Task 11
  * @n: An input integer 
  * Description - prints all natural numbers
- * Result: 0
+ * Result: Nothing
  */
 void print_to_98(int n)
 {
@@ -19,7 +19,7 @@ void print_to_98(int n)
 				continue;
 			printf(", ");
 		}
-		printf(", ");
+		printf("\n");
 	}
 	else
 	{
