@@ -5,7 +5,7 @@
  * Description - prints time table starting with 0
  * Return: 0
  */
-void prints_times_table(int n)
+void print_times_table(int n)
 {
 	int i, j;
 
