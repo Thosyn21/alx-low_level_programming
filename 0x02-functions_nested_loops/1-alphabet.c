@@ -2,7 +2,7 @@
 
 /**
  * main - check the code
- * Description - void print_alphabet(void);
+ * Description - print_alphabet(void)
  *
  * Return: 0
  */
