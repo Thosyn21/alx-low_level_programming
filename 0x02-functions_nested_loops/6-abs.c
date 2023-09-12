@@ -3,10 +3,9 @@
 /**
  * _abs - Task 6
  * Description - computes the absolute value of an integer
- * @r - 
+ * @r - An integer input
  * Return: Absolute value of r
  */
-
 int _abs(int r)
 
 {
