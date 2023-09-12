@@ -3,7 +3,7 @@
 
 /**
  * print_to_98 - Task 11
- * @n: An input integer 
+ * @n: An input integer
  * Description - prints all natural numbers
  * Result: Nothing
  */
