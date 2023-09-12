@@ -4,8 +4,7 @@
  * _islower - Task 3
  * Description - checks for lowercase letters
  * @c: an input character
- * Return: 1 if c is lowercase
- * Return: 0 otherwise
+ * Return: 1 if c is lowercase otherwise 0
  */
 
 int _islower(int c)
@@ -16,9 +15,9 @@ int _islower(int c)
 	for (i = 'a'; i <= 'z'; i++)
 	{
 	
-		if (i ==c)
-
-	lower = 1;
+		if (i == c)
+			lower = 1;
 	}
+
 	return (lower);
 }
