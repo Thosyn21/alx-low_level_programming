@@ -4,7 +4,7 @@
  * print_times_table - Task 12
  * @n: An integer value
  * Description - prints time table starting with 0
- * Return: 0
+ * Return: nothing
  */
 void print_times_table(int n)
 {
