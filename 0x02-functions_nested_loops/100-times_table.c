@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
- * print_times_table - Task 12
- * @n: An integer value
- * Description - prints time table starting with 0
- * Return: nothing
+ * print_times_table - prints times table for numbers from 0-14
+ * @n: An input integer value
+ * Return: Nothing
  */
 void print_times_table(int n)
 {
@@ -25,7 +24,7 @@ void print_times_table(int n)
 /**
  * putformat - formatted characters to output
  * @n: number to format
- * Return: Nothing
+ * Return: nothing
  */
 void putformat(int n)
 {
