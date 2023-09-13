@@ -8,9 +8,9 @@
 
 int main(void)
 {
-	char c;
+	char word[9] = "Main";
 	int i;
-
+			
 	for (i = 0; i < 9; i++)
 		_putchar(word[i]);
 	_putchar('\n');
