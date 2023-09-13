@@ -1,3 +1,4 @@
+#include <unistd.h>
 #include "main.h"
 
 /**
@@ -10,10 +11,10 @@
 
 int main(void)
 {
-	char word[9] = "Main";
+	char word[4] = "Main";
 	int i;
 
-	for (i = 0; i < 9; i++)
+	for (i = 0; i < 4; i++)
 		_putchar(word[i]);
 	_putchar('\n');
 
