@@ -1,5 +1,5 @@
-#include <stdio.h>
 #include "main.h"
+#include <stdio.h>
 
 /**
  * print_number - Prints an integer
@@ -9,7 +9,6 @@
 
 void print_number(int n)
 {
-	
 	unsigned int k = n;
 
 	if (n < 0)
