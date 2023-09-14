@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * Task 11 - prints prime factors
+ * Entry point - prints prime factors
  * Return: 0
  */
 
