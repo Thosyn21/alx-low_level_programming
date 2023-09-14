@@ -1,12 +1,11 @@
 #include "main.h"
 
-/** 
+/**
  * _isupper - Task 0
  * Description - Checks for uppercase letters
- * @c: is an input character
- * Result: 1 if c is uppercase otherwise 0
+ * @c: An input character
+ * Return: 1 if c is uppercase otherwise 0
  */
-
 int _isupper(int c)
 {
 	char uppercase = 'A';
