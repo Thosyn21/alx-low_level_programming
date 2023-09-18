@@ -5,4 +5,4 @@
 
 void reset_to_98(int *n);
 
-#enfif /* MAIN_H */
+#endif /* MAIN_H */
